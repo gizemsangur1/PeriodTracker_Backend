@@ -17,7 +17,7 @@ This is the backend for an AI-powered period tracking mobile app (AI module comi
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/period-tracker-backend.git
+git clone https://github.com/gizemsangur1/period-tracker-backend.git
 cd period-tracker-backend
 
 ````
